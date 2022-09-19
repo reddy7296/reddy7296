@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on CIS
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on Projects
+- 🤔 I’m looking for help with friends
+- ✈  I love travelling.
 <!--
 **reddy7296/reddy7296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
